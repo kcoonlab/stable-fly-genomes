@@ -15,7 +15,7 @@ Raw Illumina reads and assemblies are available in the NCBI Sequence Read Archiv
 **05** - Selection of NCBI genome sets and associated phylogenetic tree construction\
 **06** - Functional annotation (eggNOG-mapper) of *M. sciuri* \
 **07** - Strain and ARG-encoding plasmid comparisons (Mummer4)\
-**Figures** - Contain R Scripts, TreeViewer, and needed import files to recreate figures in the manuscript\
+**Figures** - Contain R Scripts, TreeViewer, and needed import files to recreate figures in the manuscript
 
 
 
