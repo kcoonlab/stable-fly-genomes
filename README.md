@@ -20,6 +20,6 @@ Raw Illumina reads and assemblies are available in the NCBI Sequence Read Archiv
 
 
 ### Contact 
-Andrew J. Sommer - asommer3@wisc.edu
+Andrew J. Sommer - asommer3@wisc.edu\
 Kerri L. Coon - kerri.coon@wisc.edu
 
