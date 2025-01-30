@@ -8,7 +8,7 @@ Raw Illumina reads and assemblies are available in the NCBI Sequence Read Archiv
 
 
 ### Folder Structure
-**01** - FASTQ  file trimming and quality control (FastQC)
+**01** - FASTQ  file trimming and quality control (FastQC)/
 **02** - Assembly (Shovill/SPAdes) and annotation (Prokka) along with associated quality control checks (Quast, BUSCO)
 **03** - Typing (Kleborate, ClermonTyping, MLST) and screening of contigs for VFs (vfdb/VirulenceFinder) and ARGs (Abricate)
 **04** - Core genome alignment and FastTree of sequenced *E. coli* and *K. pneumoniae* 
